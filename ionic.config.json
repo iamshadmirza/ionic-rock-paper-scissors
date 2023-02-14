@@ -1,0 +1,7 @@
+{
+  "name": "ionic-rock-paper-scissors",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
